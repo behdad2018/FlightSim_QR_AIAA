@@ -1,0 +1,10 @@
+You should dowload all of the codes in your working directory. The simulink flight simulation model
+is "M_6DoF_BS_Full_backup_11_25_2018.slx" and the simulation can be managed/initialized using 
+"Main_run.m" including the geometry/characterstics of quad-copter.
+
+Through "M_6DoF_BS_Full_backup_11_25_2018.slx", you can choose your desired wind model (No wind, LES or Dryden).
+Also you can choose your desired trajectory as well the aerodynamic model. Please download this paper to know more about
+the capabalities built into this flight simulation module:
+https://www.researchgate.net/publication/330898595_Quad-rotor_Flight_Simulation_in_Realistic_Atmospheric_Conditions
+
+More question, feel free to ask! you can directly email Behdad Davoudi, davoudi@umich.edu
